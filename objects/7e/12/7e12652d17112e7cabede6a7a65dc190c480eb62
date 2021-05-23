@@ -1,0 +1,14 @@
+{
+	title: "Patreon",
+	icon: "contenttweaker:patreon",
+	disable_toast: true,
+	x: -8.0d,
+	y: -4.0d,
+	shape: "rsquare",
+	custom_click: "https://www.patreon.com/al132",
+	tasks: [{
+		uid: "fb5bf94c",
+		type: "dimension",
+		dim: 0
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	title: "Twitter",
+	icon: "contenttweaker:twitter",
+	disable_toast: true,
+	x: -6.0d,
+	y: -4.0d,
+	shape: "rsquare",
+	custom_click: "https://twitter.com/al132mc",
+	tasks: [{
+		uid: "9bfa912b",
+		type: "dimension",
+		dim: 0
+	}]
+}

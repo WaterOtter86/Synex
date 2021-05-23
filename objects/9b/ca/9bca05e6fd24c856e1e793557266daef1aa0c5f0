@@ -1,0 +1,14 @@
+{
+	title: "Youtube",
+	icon: "contenttweaker:youtube",
+	disable_toast: true,
+	x: -5.0d,
+	y: -4.0d,
+	shape: "rsquare",
+	custom_click: "https://www.youtube.com/channel/UCbvuz7eq55a6snmvRI6gXLA",
+	tasks: [{
+		uid: "77beae74",
+		type: "dimension",
+		dim: 0
+	}]
+}
