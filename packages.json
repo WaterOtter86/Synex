@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Chemical Exchange",
+      "name" : "Chemical",
+      "version" : "2021-05-23-21-20-06",
+      "location" : "chemical.json",
+      "priority" : 0
+    }
+  ]
+}
